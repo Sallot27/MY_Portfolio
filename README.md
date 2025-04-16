@@ -9,7 +9,11 @@ markdown
 
 Welcome to my professional portfolio built with Laravel! This website showcases my projects, skills, and development experience.
 
-![Portfolio Screenshot](public/images/screenshot.png) *(Replace with actual screenshot)*
+![Screenshot 2025-04-16 120949](https://github.com/user-attachments/assets/a3729c71-8267-4c03-9e86-30dbe6ca9480)
+![image](https://github.com/user-attachments/assets/fc384e9e-83c4-4191-a713-89fa74708ed1)
+
+
+
 
 ## 🎯 Features
 - **Project Showcase**: Filterable gallery of my work
@@ -88,24 +92,3 @@ Access the live portfolio at:
 
 ## 📄 License
 MIT License - See [LICENSE](LICENSE) for details.
-
-
-### Customization Tips:
-1. *Replace placeholders* with your actual links/screenshots
-2. *Add badges* for additional tech (AWS, Vue, etc.)
-3. *Include project highlights*:
-   markdown
-   ## 🏆 Featured Projects
-   - [Plants App](https://github.com/Sallot27/plants-app): AI-powered agriculture diagnostic tool
-   - [Salama Insurance Mobile](https://github.com/Sallot27/salama-app): Flutter cross-platform app
-   
-4. *Add metrics* (optional):
-   markdown
-   ![Website Uptime](https://img.shields.io/uptimerobot/ratio/7/m783890745-2a4efa67aa8d1e1b4f7a0c3f)
-   
-
-Would you like me to add any of these sections?
-- API documentation (if your portfolio has backend endpoints)
-- Contribution guidelines
-- Translation setup
-- Performance benchmarks
