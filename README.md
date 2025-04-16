@@ -33,8 +33,6 @@ Welcome to my professional portfolio built with Laravel! This website showcases 
 | **APIs**      | RESTful endpoints |
 
 
-
-
 ## 📌 Key Pages
 - `/` - Homepage with featured projects
 - `/portfolios` - Filterable project gallery
@@ -43,8 +41,9 @@ Welcome to my professional portfolio built with Laravel! This website showcases 
 
 ## 🌐 Live Demo
 Access the live portfolio at:  
-[[https://sultanbashammakh.com](https://sultanbashammakh.com)
-](https://sultan-portfolio-main-ojexfk.laravel.cloud/)
+(https://sultan-portfolio-main-ojexfk.laravel.cloud/)
+
+
 ## 🤝 Contact Me
 - 📧 Email: [Sulttan.m.b@hotmail.com](mailto:Sulttan.m.b@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sultanbashammakh](https://linkedin.com/in/sultanbashammakh)
