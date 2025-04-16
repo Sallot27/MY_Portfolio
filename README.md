@@ -1,11 +1,12 @@
-Here’s a *polished README.md* for your Laravel portfolio website on GitHub, showcasing your professional work and skills:
+<p align="center">
+  <img src="icon.jpg" alt="Sallot27 Logo" width="150"/>
+</p>
 
-markdown
+
 # 🌟 Sultan Bashammakh's Portfolio
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
 
 Welcome to my professional portfolio built with Laravel! This website showcases my projects, skills, and development experience.
 
@@ -89,6 +90,3 @@ Access the live portfolio at:
 - 📧 Email: [Sulttan.m.b@hotmail.com](mailto:Sulttan.m.b@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sultanbashammakh](https://linkedin.com/in/sultanbashammakh)
 - 🐙 GitHub: [github.com/Sallot27](https://github.com/Sallot27)
-
-## 📄 License
-MIT License - See [LICENSE](LICENSE) for details.
