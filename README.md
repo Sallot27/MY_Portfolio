@@ -32,60 +32,19 @@ Welcome to my professional portfolio built with Laravel! This website showcases 
 | **DevOps**    | GitHub Actions, Docker |
 | **APIs**      | RESTful endpoints |
 
-## 🚀 Quick Setup
 
-### Development
-bash
-# 1. Clone repository
-git clone https://github.com/Sallot27/portfolio.git
-cd portfolio
-
-# 2. Install dependencies
-composer install
-npm install
-
-# 3. Configure environment
-cp .env.example .env
-php artisan key:generate
-
-# 4. Build assets
-npm run dev
-
-# 5. Run server
-php artisan serve
-
-
-### Deployment
-bash
-# Production build
-npm run build
-composer install --optimize-autoloader --no-dev
-
-
-## 📂 Project Structure
-
-.
-├── app/               # Laravel application core
-│   ├── Models/        # Database models
-│   └── View/         # Blade components
-├── config/            # Configuration files
-├── public/            # Compiled assets
-├── resources/
-│   ├── css/           # Tailwind styles
-│   └── views/         # Blade templates
-└── database/          # Migrations & seeders
 
 
 ## 📌 Key Pages
 - `/` - Homepage with featured projects
-- `/projects` - Filterable project gallery
-- `/resume` - Interactive timeline
+- `/portfolios` - Filterable project gallery
+- `/about` - Interactive timeline
 - `/contact` - Secure message form
 
 ## 🌐 Live Demo
 Access the live portfolio at:  
-[https://sultanbashammakh.com](https://sultanbashammakh.com)
-
+[[https://sultanbashammakh.com](https://sultanbashammakh.com)
+](https://sultan-portfolio-main-ojexfk.laravel.cloud/)
 ## 🤝 Contact Me
 - 📧 Email: [Sulttan.m.b@hotmail.com](mailto:Sulttan.m.b@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sultanbashammakh](https://linkedin.com/in/sultanbashammakh)
